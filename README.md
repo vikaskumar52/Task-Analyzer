@@ -34,3 +34,9 @@ Starting The Server: Start the Server where the app.js file present in your Proj
 npm app.js
 
 Access The Application: You can now Access This Application in your web browser  at http://localhost:3001
+
+Screenshots Of Application
+
+![Screenshot 1](screenshots/Text_Analyzer(Before).png)
+![Screenshot 2](screenshots/Text_Analyzer(After 1).png)
+![Screenshot 3](screenshots/Text_Analyzer(After 2).png)
