@@ -37,6 +37,6 @@ Access The Application: You can now Access This Application in your web browser 
 
 Screenshots Of Application
 
-![Screenshot 1](Screenshots/Text_Analyzer(Before).png)
-![Screenshot 2](Screenshots/Text_Analyzer(After 1).png)
-![Screenshot 3](Screenshots/Text_Analyzer(After 2).png)
+![img1](screenshots/img1.png)
+![img2](screenshots/img2.png)
+![img3](screenshots/img3.png)
