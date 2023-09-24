@@ -18,7 +18,7 @@ The Application have following files and directories:
 •	public/: Folder For Storing Static Files(index,css,script).
 •	Screenshots: Contains Web Application Screenshot(Before means before uploading text file After 1 and After 2 are the screenshots after uploading the Text file) 
 Clone the Repository
-         https://github.com/vikaskumar52/Text-Analyzer.git
+         https://github.com/vikaskumar52/Text-Analyzer/tree/master
 
 Navigate To The Application Directory
 
